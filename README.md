@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Using online IDE: Stackblitz for the development purpose
+Note: Please use google chrome to view the project as there is some restriction in previewing the output in safari
+
 ## Getting Started
 
 ## Clone the repository
